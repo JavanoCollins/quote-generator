@@ -35,7 +35,7 @@ export default {
         return {
             quote: "",
             author: "",
-            proxyUrl: "https://mighty-cove-15908.herokuapp.com/",
+            proxyUrl: "https://rocky-lowlands-97929.herokuapp.com/",
             apiUrl:
                 "http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json",
                 loader: null,
